@@ -1,8 +1,8 @@
 <?php
 $user = array(
 	"user_name" => 'tian',
-	"user_pass" => 'abcdef',
-	"cookie" => 'xsaxasxsxa',
+	"user_pass" => 'casbckabkcdef',
+	"cookie" => 'xsaxascascascxsxa',
 );
 
 if($_COOKIE['user'] == $user['cookie']){
